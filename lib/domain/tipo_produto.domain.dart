@@ -1,0 +1,4 @@
+enum TipoProduto {
+  LATA,
+  GARRAFA,
+}

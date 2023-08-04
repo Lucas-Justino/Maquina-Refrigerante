@@ -1,0 +1,4 @@
+enum TipoFinalizadora{
+  MOEDA,
+  NOTA,
+}
