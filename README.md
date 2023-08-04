@@ -1,16 +1,23 @@
-# untitled
+# Máquina de Refrigerante em Flutter
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
+Este é um projeto em Flutter que simula uma máquina de refrigerante. Com este aplicativo, os usuários podem selecionar os produtos disponíveis na máquina, inserir dinheiro e finalizar a compra para receber o produto escolhido.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Selecionar produtos disponíveis na máquina
+- [x] Inserir dinheiro para efetuar a compra
+- [x] Finalizar a compra e liberar o produto selecionado
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalação
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para executar o aplicativo, certifique-se de ter o Flutter instalado em seu ambiente de desenvolvimento. Em seguida, clone este repositório e execute o seguinte comando:
+
+```sh
+flutter run
+```
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se livre para usar, modificar e distribuir conforme as diretrizes da licença.
